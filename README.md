@@ -2,7 +2,7 @@
 
 **Fullname**: Roman Pankov
 
-**Age**: 17
+**Age**: 18
 
 **Education**: Secondary School Diploma with Honors (2023), Bachelor's Degree in Computer Science (expected 2027)
 
